@@ -1,0 +1,1 @@
+The code interfaces to a 20x4 LCD using RPI's I2C interface.
